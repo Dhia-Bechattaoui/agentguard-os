@@ -60,9 +60,10 @@ AgentGuard OS splits execution between a lightweight, isolated Guest VM and a hi
 
 The project is structured as a multi-package Cargo workspace:
 
-*   **[guard-runner/](file:///Users/dhia/Developer/agentguard-os/guard-runner/)**: The Host Orchestrator written in Rust. It instantiates the Wasmtime engine, configures sandbox limits, sets up custom host bindings (`http_request` and `record_step`), and handles log sanitization.
-*   **[guard-sandbox/](file:///Users/dhia/Developer/agentguard-os/guard-sandbox/)**: The Guest sandbox application compiled to WebAssembly target `wasm32-wasip1`. It executes agent scripts and interfaces with host APIs.
-*   **[guard-proxy/](file:///Users/dhia/Developer/agentguard-os/guard-proxy/)**: The security filtering library. It contains the logic for high-entropy dynamic censorship, Jaccard token similarity tracking, and session budget cost evaluation.
+*   **[guard-runner/](./guard-runner/)**: The Host Orchestrator written in Rust. It instantiates the Wasmtime engine, configures sandbox limits, sets up custom host bindings (`http_request` and `record_step`), and handles log sanitization.
+*   **[guard-sandbox/](./guard-sandbox/)**: The Guest sandbox application compiled to WebAssembly target `wasm32-wasip1`. It executes agent scripts and interfaces with host APIs.
+*   **[guard-proxy/](./guard-proxy/)**: The security filtering library. It contains the logic for high-entropy dynamic censorship, Jaccard token similarity tracking, and session budget cost evaluation.
+
 
 ---
 

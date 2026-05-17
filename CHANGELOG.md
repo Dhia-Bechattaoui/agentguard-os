@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.0.2] - 2026-05-17
+
+### Fixed
+- **Repository Portability**: Converted absolute host path references (`file:///Users/dhia/...`) in workspace structure descriptions within `README.md` to portable relative repository links.
+
+---
+
 ## [0.0.1] - 2026-05-17
 
 ### Added
@@ -25,4 +32,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-[0.0.1]: https://github.com/dhia/agentguard-os/releases/tag/v0.0.1
+[0.0.2]: https://github.com/dhia-bechattaoui/agentguard-os/releases/tag/v0.0.2
+[0.0.1]: https://github.com/dhia-bechattaoui/agentguard-os/releases/tag/v0.0.1
