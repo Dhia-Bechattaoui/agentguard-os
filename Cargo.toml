@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+    "guard-runner",
+    "guard-sandbox",
+    "guard-proxy"
+]

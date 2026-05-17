@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-env=DEBUG_OUTPUT_DIR=/Users/dhia/Developer/agentguard-os/target/debug/build/wasmtime-component-macro-d50b4c38c1816b77/out

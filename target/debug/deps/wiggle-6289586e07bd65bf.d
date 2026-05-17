@@ -1,0 +1,12 @@
+/Users/dhia/Developer/agentguard-os/target/debug/deps/wiggle-6289586e07bd65bf.d: /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/lib.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/borrow.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/error.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/guest_type.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/region.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/wasmtime.rs
+
+/Users/dhia/Developer/agentguard-os/target/debug/deps/libwiggle-6289586e07bd65bf.rlib: /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/lib.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/borrow.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/error.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/guest_type.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/region.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/wasmtime.rs
+
+/Users/dhia/Developer/agentguard-os/target/debug/deps/libwiggle-6289586e07bd65bf.rmeta: /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/lib.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/borrow.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/error.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/guest_type.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/region.rs /Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/wasmtime.rs
+
+/Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/lib.rs:
+/Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/borrow.rs:
+/Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/error.rs:
+/Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/guest_type.rs:
+/Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/region.rs:
+/Users/dhia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-20.0.2/src/wasmtime.rs:
